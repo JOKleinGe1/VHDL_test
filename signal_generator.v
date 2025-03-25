@@ -1,3 +1,6 @@
+-- AAV 1 : programmer la carte FPGA avec ce code. 
+-- la sortie sera sur une LED. 
+
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
 use IEEE.STD_LOGIC_ARITH.ALL;
