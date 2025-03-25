@@ -1,3 +1,6 @@
+-- AAV 6 : produire un TESTBENCH pour un compteur 4 bits avec reset , enable et  load. 
+-- criteres : 1. autonomie. 2. démonstration de toutes les fonctionnalités. 
+
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
 use IEEE.STD_LOGIC_ARITH.ALL;

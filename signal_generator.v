@@ -1,5 +1,8 @@
 -- AAV 1 : programmer la carte FPGA avec ce code. 
 -- la sortie sera sur une LED. 
+-- criteres : 
+-- 1. autonomie. 
+-- 2. configuration projet, notamment des sorties actives (choix) et inactives (Z). 
 
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
